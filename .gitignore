@@ -6,9 +6,6 @@ __pycache__/
 logs/
 *.log
 
-chroma_db/
-*.sqlite3
-*.db
 
 .vscode/
 .idea/
